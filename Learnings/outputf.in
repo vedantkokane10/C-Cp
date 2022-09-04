@@ -1,2 +1,12 @@
-1_gnirts
-Not Pallindrome
+Before increment_function 0
+After increment_function 1
+After void functiom (func) 0
+Use of sum_digits Function 10
+
+Pass by value -> n = 4
+
+Pass by reference -> n = 9
+
+Before any Function a = 2, b = 5
+Swapping by pass by value -> a = 2, b = 5
+Swapping by pass by reference -> a = 5, b = 2
