@@ -1,0 +1,31 @@
+[
+	{
+		"correct_answers":
+		[
+			"3"
+		],
+		"test": ""
+	},
+	{
+		"test": "11\n0 0 1 1 1 3 3 7 7 7\n"
+	},
+	{
+		"test": "1\n11\n0 0 1 1 1 1 3 3 7 7 7\n"
+	},
+	{
+		"test": "1\n3\n5 3 5\nVed\n"
+	},
+	{
+		"test": "ved 19 1000\nsid 12 1233\nn\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter real and imaginary part of Complex number 1 \n1. Complex Number : 2 + 3i\n\nEnter real and imaginary part of Complex number 1 \n2. Complex Number : 3 + 2i\n\n1. Addition of complex numbers \n2. Subtraction of complex numbers \n3. Multiplication of complex numbers \nproduct 0 + 13i\n\nType (y) to perform another operation else (n) to exit \n1. Addition of complex numbers \n2. Subtraction of complex numbers \n3. Multiplication of complex numbers \naddition 5 + 5i\n\nType (y) to perform another operation else (n) to exit \n1. Addition of complex numbers \n2. Subtraction of complex numbers \n3. Multiplication of complex numbers \nsubtraction -1 + 1i\n\nType (y) to perform another operation else (n) to exit"
+		],
+		"test": "2\n3\n3\n2\n3\ny\n1\ny\n2\nn\n"
+	},
+	{
+		"test": "2\n4\n"
+	}
+]
